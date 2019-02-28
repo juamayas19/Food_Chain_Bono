@@ -1,0 +1,9 @@
+﻿10 de Abril;15 de Abril;Ubérrimo;AUC;Papaya
+
+10 de Mayo;7 de Agosto;Ubérrimo;Presidencia;Cerdo
+
+1 de Enero;13 de Enero;Ubérrimo;AUC;Harina
+
+2 de Marzo;6 de Julio;Ubérrimo;AUC;Cilantro Salvaje
+
+10 de Noviembre;15 de Noviembre;Ubérrimo;AUC;Winchester
